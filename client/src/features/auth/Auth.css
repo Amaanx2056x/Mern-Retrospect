@@ -1,0 +1,18 @@
+.auth-card{
+    width: 40%;
+    height: fit-content !important;
+    position: absolute;
+    top: 15%;
+    border-radius: 20px !important;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4) !important;
+   
+   
+}
+.auth-container{
+display: flex;
+justify-content: center;
+/* background-color: rgb(242, 241, 241) */
+background: rgb(48, 157, 161) !important;
+height: 100vh;
+
+}

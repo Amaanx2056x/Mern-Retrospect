@@ -1,0 +1,72 @@
+.container-fluid{
+    margin:0 !important;
+    padding:0 !important;
+    --bs-gutter-x:unset !important;
+background-color: rgb(242, 241, 241)
+}
+.col-md-6{
+    padding-left: unset !important;
+    padding-right: unset !important;
+}
+
+.logout-text{
+margin-left: 25px;
+font-weight: bold;
+text-decoration: underline;
+}
+
+.wallsection-card{
+        background: rgb(242, 241, 241) !important;
+            border: unset !important;
+}
+
+.note-card-allgood{
+    border-radius: 5px 5px 20px 5px !important;
+    background: rgb(247, 156, 129) !important;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4) !important;
+}
+
+.note-card-improvements {
+    border-radius: 5px 5px 20px 5px !important;
+    background: rgb(148,225,242) !important;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4) !important;
+}
+.note-card-start {
+    border-radius: 5px 5px 20px 5px !important;
+    background: rgb(91,240,165) !important;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4) !important;
+}
+
+.note-card-action {
+    border-radius: 5px 5px 20px 5px !important;
+    background: rgb(200,232,56) !important;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4) !important;
+}
+
+.custom-card-text{
+    font-weight: bold !important;
+}
+.note-input{
+    background: transparent !important;
+    border: unset !important;
+    outline: none !important; 
+    font-weight: bold !important;
+}
+.custom-navbar{
+    height: 75px;
+    padding: 5px;
+   margin: auto;
+   display: inline-block;
+   
+}
+.custom-navbar-title{
+    font-weight: bold;
+   
+    
+}
+.custom-navbar-right{
+display: inline-block;
+}
+.user-info{
+
+}
