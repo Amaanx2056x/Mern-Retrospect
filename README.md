@@ -1,6 +1,10 @@
 # Mern-Retrospect
 
-## Nodejs Must be installed in order to run this.
+### Front-End: React+Redux,
+### Backend: NodeJS + ExpressJs
+### DB: MongoDB (Cloud-Atlas)
+
+### Nodejs Must be installed in order to run this.
 
 
 ### steps to run:
